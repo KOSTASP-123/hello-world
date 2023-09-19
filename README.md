@@ -1,4 +1,6 @@
-# hello-world
-Testing
+# Useful Links
+## List
 
-Life sucks what can u do...
+* Python Tutor – Visualize Code Execution: https://pythontutor.com/render.html#mode=display
+
+
